@@ -1,0 +1,72 @@
+[
+  {
+    "ProductId": "P12345",
+    "ProductName": "Wireless Mouse",
+    "ProductCategory": "Electronics",
+    "ProductQuantity": 150,
+    "ProductPrice": 29.99
+  },
+  {
+    "ProductId": "P12346",
+    "ProductName": "Mechanical Keyboard",
+    "ProductCategory": "Electronics",
+    "ProductQuantity": 80,
+    "ProductPrice": 89.50
+  },
+  {
+    "ProductId": "P12347",
+    "ProductName": "Noise Cancelling Headphones",
+    "ProductCategory": "Electronics",
+    "ProductQuantity": 60,
+    "ProductPrice": 199.99
+  },
+  {
+    "ProductId": "P12348",
+    "ProductName": "Ergonomic Chair",
+    "ProductCategory": "Furniture",
+    "ProductQuantity": 40,
+    "ProductPrice": 249.00
+  },
+  {
+    "ProductId": "P12349",
+    "ProductName": "Standing Desk",
+    "ProductCategory": "Furniture",
+    "ProductQuantity": 25,
+    "ProductPrice": 399.99
+  },
+  {
+    "ProductId": "P12350",
+    "ProductName": "LED Desk Lamp",
+    "ProductCategory": "Office Supplies",
+    "ProductQuantity": 200,
+    "ProductPrice": 39.95
+  },
+  {
+    "ProductId": "P12351",
+    "ProductName": "32GB USB Flash Drive",
+    "ProductCategory": "Storage Devices",
+    "ProductQuantity": 500,
+    "ProductPrice": 9.99
+  },
+  {
+    "ProductId": "P12352",
+    "ProductName": "Portable SSD 1TB",
+    "ProductCategory": "Storage Devices",
+    "ProductQuantity": 100,
+    "ProductPrice": 129.99
+  },
+  {
+    "ProductId": "P12353",
+    "ProductName": "Smartphone Stand",
+    "ProductCategory": "Accessories",
+    "ProductQuantity": 300,
+    "ProductPrice": 15.00
+  },
+  {
+    "ProductId": "P12354",
+    "ProductName": "Bluetooth Speaker",
+    "ProductCategory": "Electronics",
+    "ProductQuantity": 120,
+    "ProductPrice": 59.99
+  }
+]
