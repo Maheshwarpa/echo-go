@@ -12,6 +12,7 @@ func DeleteOrder(c echo.Context) error {
 
 	id := c.Param("id")
 	fmt.Println(id)
+	//
 	delete(OrderList, id)
 	if _, exists := OrderList[id]; exists {
 		c.JSON(http.StatusFound, map[string]string{
